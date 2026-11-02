@@ -1,0 +1,50 @@
+{
+ "key": "denbosch",
+ "brand": "Lachgas Den Bosch",
+ "host": "lachgasdenbosch.nl",
+ "site": "https://lachgasdenbosch.nl",
+ "word": "Den Bosch",
+ "wa": "31684626182",
+ "mail": "info@lachgasdenbosch.nl",
+ "keyword": "lachgas den bosch",
+ "alt_names": [
+  "lachgasdenbosch.nl",
+  "Lachgas 's-Hertogenbosch"
+ ],
+ "home_title": "Lachgas Den Bosch | Lachgas bestellen, bezorgd via WhatsApp",
+ "html_lang": "nl",
+ "hl": "nl",
+ "lang": "nl-NL",
+ "locale": "nl_NL",
+ "country": "NL",
+ "payment": "Contant, Tikkie",
+ "same_as": [],
+ "extra_service": [
+  "/lachgas-spoedbezorging/",
+  "/lachgas-nachtbezorging/",
+  "/lachgas-weekendbezorging/",
+  "/lachgas-feest-evenement/",
+  "/lachgas-feestdagen/",
+  "/lachgas-carnaval-den-bosch/",
+  "/lachgas-studenten-den-bosch/",
+  "/zakelijk-bestellen/",
+  "/bezorgtijden-den-bosch/"
+ ],
+ "family": "stad",
+ "domain": "https://lachgasdenbosch.nl",
+ "area_dirs": [
+  "bezorggebied"
+ ],
+ "city": "'s-Hertogenbosch",
+ "region": "Noord-Brabant",
+ "region_long": "Den Bosch en omgeving",
+ "geo_region": "NL-NB",
+ "place": "'s-Hertogenbosch",
+ "geo": [51.6978, 5.3037],
+ "theme": "#b91c1c",
+ "accent": "#b91c1c",
+ "og": "/assets/img/og-lachgas-den-bosch.jpg",
+ "logo": "/icon-512.png",
+ "apple": "/apple-touch-icon.png",
+ "og_alt": "Lachgas Den Bosch: lachgastank snel en discreet bezorgd via WhatsApp"
+}
