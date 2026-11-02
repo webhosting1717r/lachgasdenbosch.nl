@@ -1,0 +1,128 @@
+# -*- coding: utf-8 -*-
+# Overige pagina's lachgasdenbosch.nl: contact, over ons, algemene voorwaarden en privacybeleid (gerenderd door pages_misc.py).
+
+CONTACT = {
+    "title": "Contact | Lachgas Den Bosch via WhatsApp of e-mail",
+    "description": "Neem contact op met Lachgas Den Bosch: bestellen en snelle vragen via WhatsApp, 24 uur per dag; voor wat kan wachten via e-mail of het formulier. 18+.",
+    "h1": "Neem contact op",
+    "lead": "WhatsApp is de kortste weg naar een bestelling of een snel antwoord; voor alles wat kan wachten is e-mail prima.",
+    "intro": [
+        """Een bestelling plaatsen of iets vragen over een levering die onderweg is, doe je via WhatsApp. Daar leest degene die ook de bezorging regelt mee, zodat je niet hoeft te wachten op een terugbelverzoek. Zet in je eerste bericht welk product en welk formaat je wilt, je adres met wijk of plaats, en het tijdstip waarop het je uitkomt. Wij antwoorden met de prijs en de verwachte levertijd, en pas als jij dat bevestigt gaat de bezorger op weg, in Den Bosch meestal binnen 15 tot 25 minuten.""",
+        """E-mail gebruik je voor dingen die geen haast hebben: een vraag van een horecazaak of vereniging over een grotere levering, een opmerking over onze informatiepagina's, een verzoek rond je gegevens zoals beschreven in ons <a href="/privacy/">privacybeleid</a>, of feedback over een eerdere bezorging. Mail lezen we doorgaans binnen een werkdag, maar niet midden in de nacht. Ongeacht het kanaal leveren we uitsluitend aan personen van 18 jaar en ouder en vragen we bij de deur om een identiteitsbewijs.""",
+    ],
+    "cards_h2": "Direct contact",
+    "wa_sub": "Snelste manier om te bestellen, 24/7",
+    "hours_label": "Openingstijden",
+    "hours_text": "Elke dag, 24 uur per dag",
+    "form_h2": "Stuur ons een bericht",
+    "form_text": "Vul het formulier in en wij nemen zo snel mogelijk contact met je op. Voor een bestelling is WhatsApp het snelst.",
+    "form_options": ["Bestelling plaatsen", "Vraag over assortiment", "Vraag over bezorging", "Zakelijk / horeca", "Anders"],
+    "form_place_placeholder": "Bv. Binnenstad, Rosmalen, Maaspoort, Vught...",
+    "form_consent": """Door te versturen ga je akkoord met het verwerken van je gegevens zoals beschreven in ons <a href="/privacy/">privacybeleid</a>. Wij verkopen uitsluitend aan personen van 18 jaar en ouder.""",
+}
+
+ABOUT = {
+    "title": "Over Lachgas Den Bosch | Bezorgservice voor 18+",
+    "description": "Wie wij zijn en hoe wij werken: bezorgservice voor lachgastanks, crackers en slagroompatronen in Den Bosch en omgeving, met vaste afspraken over 18+.",
+    "h1": "Over Lachgas Den Bosch",
+    "lead": "Een bezorgservice uit Den Bosch die lachgas aan huis brengt in de stad, in Rosmalen en in de dorpen en steden eromheen, met vaste afspraken over leeftijd, verzegeling en eerlijke informatie.",
+    "updated": "november 2026",
+    "sections": [
+        {"h2": "Wie wij zijn",
+         "paragraphs": [
+             """Lachgas Den Bosch is een lokale bezorgservice zonder winkel, zonder afhaalpunt en zonder webshop. Wat we doen is overzichtelijk: we bezorgen lachgastanks, crackers en slagroompatronen aan huis bij volwassenen in 's-Hertogenbosch en omgeving, en we doen dat via WhatsApp, omdat dat voor een bestelling en een paar vragen de meest directe manier is. We werken met een klein aantal bezorgers die de stad en de regio kennen, van de smalle straatjes rond de Sint-Jan en de Binnendieze tot de dorpen langs de A2 en de A59. Wat we niet doen: beweren dat lachgas zonder risico is, groepen aanmoedigen om meer te gebruiken, of leveren aan wie geen identiteitsbewijs kan tonen.""",
+         ]},
+        {"h2": "Hoe wij werken",
+         "paragraphs": [
+             """Een bestelling begint met een bericht waarin staat wat je wilt en waar je woont. Wij antwoorden met de prijs en een verwachte tijd, en pas als jij akkoord bent, gaat een bezorger op weg. Aan de deur controleren we de leeftijd, laten we zien dat de tank verzegeld is en reken je af, contant of via Tikkie. Er gaat niets vooraf over een rekening en er blijft niets achter dat niet nodig is. De drie stappen staan uitgebreid beschreven bij onze <a href="/werkwijze/">werkwijze</a>; wat je over betalen en leeftijdscontrole moet weten, heeft elk een eigen pagina.""",
+         ]},
+        {"h2": "Ons werkgebied",
+         "paragraphs": [
+             """Den Bosch is het hart van ons gebied: alle wijken, van de Binnenstad, De Muntel en De Vliert tot Maaspoort, Den Bosch-West en Hintham, en de kernen Rosmalen, De Groote Wielen, Engelen, Empel, Nuland en Vinkel, meestal binnen 15 tot 25 minuten. Daaromheen bedienen we Vught en de Meierij tot Boxtel, Schijndel en Veghel, het Maasland met Oss, Heesch en Uden, de Langstraat met Vlijmen, Drunen en Waalwijk, en de Bommelerwaard net over de Maas, met overal dezelfde indicatie van meestal 15 tot 25 minuten. Hoe die regio in elkaar zit, staat op de pagina over <a href="/bezorggebied/noordoost-brabant/">Noordoost-Brabant</a>; elke plaats heeft daarnaast een eigen pagina in het <a href="/bezorggebied/">bezorggebied</a>.""",
+         ]},
+        {"h2": "Waar wij voor staan",
+         "paragraphs": [
+             """Een paar uitgangspunten veranderen niet, hoe druk het ook is:""",
+             """We volgen de regels zoals ze nu zijn en passen onze werkwijze aan als de wet of de gemeente iets verandert. Wat er op dit moment geldt, lees je bij <a href="/lachgas-informatie/is-lachgas-legaal-in-nederland/">is lachgas legaal in Nederland</a>; voor de officiële tekst verwijzen we naar <a href="https://www.rijksoverheid.nl">rijksoverheid.nl</a>.""",
+         ],
+         "bullets": [
+             """Uitsluitend 18+. Wie geen geldig identiteitsbewijs kan laten zien, krijgt niets geleverd, ook niet als de bestelling al onderweg is.""",
+             """Verzegeld geleverd. Je ziet aan de deur dat de tank onaangeroerd is; is dat niet zo, neem hem dan niet aan.""",
+             """Eerlijke informatie. Onze informatiepagina's beschrijven ook de risico's, de wetgeving en de bijwerkingen, niet alleen de producten.""",
+             """Geen aanmoediging. We schrijven nergens hoeveel iemand zou moeten gebruiken en koppelen lachgas nergens aan een boodschap over feesten of drinken.""",
+             """Verwijzen als het nodig is. Wie merkt dat gebruik uit de hand loopt, kan terecht bij <a href="https://www.novadic-kentron.nl">Novadic-Kentron</a>, de verslavingszorg in Brabant; dat zeggen we liever één keer te vaak dan te weinig.""",
+         ]},
+        {"h2": "Contact",
+         "paragraphs": [
+             """De snelste manier om ons te bereiken is het WhatsApp-gesprek, voor een bestelling en voor elke vraag die je daarbij hebt. Wil je liever schrijven of iets zakelijks voorleggen, bijvoorbeeld voor een horecazaak in de binnenstad die slagroompatronen in grotere aantallen nodig heeft, gebruik dan het formulier op de <a href="/contact/">contactpagina</a>. Feedback over een bezorging, een vergissing in een bevestiging of een vraag over je gegevens: ook dat lezen we en daar reageren we op. Hoe we met gegevens omgaan, staat in ons <a href="/privacy/">privacybeleid</a>.""",
+         ]},
+    ],
+    "note": """Deze pagina beschrijft hoe wij werken, niet of lachgas voor jou geschikt is. Lees voor de risico's onze informatiepagina's en raadpleeg bij vragen over je gezondheid een arts.""",
+    "related": ["/werkwijze/", "/bezorggebied/", "/contact/", "/lachgas-informatie/"],
+}
+
+TERMS = {
+    "title": "Algemene voorwaarden | Lachgas Den Bosch",
+    "description": "De algemene voorwaarden van Lachgas Den Bosch: leeftijdsgrens 18+, totstandkoming van je bestelling, levering, betalen bij aflevering en annuleren.",
+    "h1": "Algemene voorwaarden",
+    "lead": "Van toepassing op elke bestelling bij Lachgas Den Bosch.",
+    "updated": "november 2026",
+    "cta_h2": "Vragen over deze voorwaarden?",
+    "cta_text": "Neem gerust contact met ons op via WhatsApp.",
+    "articles": [
+        {"h2": "Artikel 1 — Definities en toepasselijkheid",
+         "paragraphs": ["""In deze voorwaarden wordt met "Lachgas Den Bosch", "wij" of "ons" de bezorgservice bedoeld die via deze website en via WhatsApp bestellingen aanneemt en levert in 's-Hertogenbosch en omgeving. Met "klant" of "je" wordt de natuurlijke persoon bedoeld die een bestelling plaatst. Deze voorwaarden zijn van toepassing op elke bestelling en elke overeenkomst tussen Lachgas Den Bosch en de klant."""]},
+        {"h2": "Artikel 2 — Leeftijdsgrens",
+         "paragraphs": ["""Onze producten zijn uitsluitend bestemd voor en worden uitsluitend verkocht aan personen van 18 jaar en ouder. Door een bestelling te plaatsen, verklaart de klant dat hij of zij 18 jaar of ouder is. Bij aflevering kan om een geldig identiteitsbewijs worden gevraagd. Bij twijfel over de leeftijd van de klant behouden wij ons het recht voor de levering te weigeren."""]},
+        {"h2": "Artikel 3 — Bestelling en totstandkoming",
+         "paragraphs": ["""Een bestelling komt tot stand op het moment dat wij deze via WhatsApp, e-mail of het contactformulier uitdrukkelijk bevestigen aan de klant, inclusief prijs, hoeveelheid, leveradres en levermoment. Prijzen worden per bestelling meegedeeld op aanvraag en zijn geldig op het moment van bevestiging. Lachgastanks van 10KG leveren wij uitsluitend in overleg."""]},
+        {"h2": "Artikel 4 — Levering",
+         "paragraphs": ["""Wij leveren in 's-Hertogenbosch en de omliggende plaatsen binnen het door ons opgegeven bezorggebied, uitsluitend op een privéadres. Opgegeven levertijden, zoals de indicatie van meestal binnen 15 tot 25 minuten, zijn indicatief en geen fatale termijn. Wij spannen ons in om zo snel en discreet mogelijk te leveren, maar zijn niet aansprakelijk voor vertragingen buiten onze controle (bijvoorbeeld verkeer, evenementen of weersomstandigheden). De klant zorgt voor een bereikbaar leveradres en is op het afgesproken moment bereikbaar via WhatsApp."""]},
+        {"h2": "Artikel 5 — Betaling",
+         "paragraphs": ["""Betaling gebeurt bij aflevering, contant of via een elektronische betaalmethode zoals Tikkie, zoals voorafgaand overeengekomen. Wij vragen nooit om vooruitbetaling. De klant is verplicht het overeengekomen bedrag bij aflevering te voldoen."""]},
+        {"h2": "Artikel 6 — Annulering en herroepingsrecht",
+         "paragraphs": ["""Annulering of wijziging van een bestelling is mogelijk zolang de bezorger nog niet onderweg is; neem hiervoor zo snel mogelijk contact met ons op in hetzelfde WhatsApp-gesprek. Voor verzegelde producten die om redenen van gezondheidsbescherming of hygiëne niet geschikt zijn om te worden teruggezonden nadat de verzegeling na levering is verbroken, is het herroepingsrecht uitgesloten zodra de verzegeling van het product is verbroken. Onbeschadigde en nog verzegelde producten kunnen binnen de wettelijke termijn worden geretourneerd; neem hiervoor eerst contact met ons op."""]},
+        {"h2": "Artikel 7 — Verantwoord gebruik",
+         "paragraphs": ["""De klant is zelf verantwoordelijk voor correct en verantwoord gebruik van de geleverde producten en voor naleving van de geldende wet- en regelgeving, waaronder de Opiumwet en de plaatselijke verordening van de eigen gemeente. Wij verwijzen hiervoor naar onze pagina's <a href="/lachgas-informatie/veilig-gebruik/">veilig gebruik</a> en <a href="/lachgas-informatie/lachgas-in-het-verkeer/">lachgas in het verkeer</a>. Lachgas Den Bosch aanvaardt geen aansprakelijkheid voor schade die voortvloeit uit oneigenlijk, overmatig of onverantwoord gebruik van de geleverde producten."""]},
+        {"h2": "Artikel 8 — Aansprakelijkheid",
+         "paragraphs": ["""Onze aansprakelijkheid is beperkt tot het bedrag van de betreffende bestelling, behoudens in geval van opzet of grove nalatigheid onzerzijds. Wij zijn niet aansprakelijk voor indirecte schade of gevolgschade, tenzij dwingend recht anders bepaalt."""]},
+        {"h2": "Artikel 9 — Klachten",
+         "paragraphs": ["""Klachten over een bestelling of levering kunnen worden gemeld via <a href="/contact/">ons contactformulier</a>, e-mail of WhatsApp. Wij streven ernaar elke klacht binnen een redelijke termijn te behandelen."""]},
+        {"h2": "Artikel 10 — Toepasselijk recht en geschillen",
+         "paragraphs": ["""Op deze voorwaarden en alle overeenkomsten met Lachgas Den Bosch is het Nederlands recht van toepassing. In geval van een geschil is de rechtbank Oost-Brabant bevoegd, onverminderd de mogelijkheid voor de consument om een geschil voor te leggen aan een bevoegde geschillencommissie."""]},
+    ],
+}
+
+PRIVACY = {
+    "title": "Privacybeleid en gegevens | Lachgas Den Bosch",
+    "description": "Hoe Lachgas Den Bosch omgaat met je persoonsgegevens: wat we verwerken bij een bestelling of bericht, waarvoor, hoe lang, en je rechten onder de AVG.",
+    "h1": "Privacybeleid",
+    "lead": "Hoe wij omgaan met je persoonsgegevens, in lijn met de Algemene Verordening Gegevensbescherming (AVG).",
+    "updated": "november 2026",
+    "cta_h2": "Vragen over je gegevens?",
+    "cta_text": "Neem gerust contact met ons op via WhatsApp.",
+    "articles": [
+        {"h2": "Wie is verantwoordelijk?",
+         "paragraphs": ["""Lachgas Den Bosch is verantwoordelijk voor de verwerking van persoonsgegevens zoals beschreven in dit privacybeleid. Voor vragen kun je contact opnemen via <a href="mailto:info@lachgasdenbosch.nl">info@lachgasdenbosch.nl</a> of <a href="/contact/">WhatsApp</a>."""]},
+        {"h2": "Welke gegevens verzamelen wij?",
+         "paragraphs": ["""Wanneer je een bestelling plaatst of het contactformulier invult, verzamelen wij:"""],
+         "bullets": ["Naam", "Telefoonnummer / WhatsApp-nummer", "E-mailadres", "Bezorgadres of wijk/plaats", "De inhoud van je bericht of bestelling",
+                     "Technische gegevens bij bezoek aan de website (zoals IP-adres en browsertype), voor zover standaard hostinglogs dat met zich meebrengen"]},
+        {"h2": "Waarvoor gebruiken wij deze gegevens?",
+         "paragraphs": ["""Wij gebruiken je gegevens uitsluitend om je bestelling te verwerken, met je te communiceren over de levering en om te voldoen aan onze wettelijke verplichtingen (waaronder de leeftijdscontrole voor de verkoop van onze producten). Wij gebruiken je gegevens niet voor ongevraagde marketing en verkopen je gegevens nooit aan derden."""]},
+        {"h2": "Grondslag",
+         "paragraphs": ["""Wij verwerken je gegevens op basis van de uitvoering van een overeenkomst, een gerechtvaardigd belang (bijvoorbeeld de bereikbaarheid van onze dienst) of, waar van toepassing, je toestemming."""]},
+        {"h2": "Hoe lang bewaren wij je gegevens?",
+         "paragraphs": ["""Wij bewaren je gegevens niet langer dan noodzakelijk voor de hierboven beschreven doeleinden, of zolang de wet dit vereist (bijvoorbeeld voor de administratie)."""]},
+        {"h2": "WhatsApp, formulieren en hosting",
+         "paragraphs": ["""Wanneer je ons benadert via WhatsApp, is daarop ook het privacybeleid van WhatsApp/Meta van toepassing. Ons contactformulier opent je eigen e-mailprogramma en stuurt het bericht rechtstreeks naar ons e-mailadres; er zit geen formulierdienst van een derde partij tussen. De website wordt gehost bij een hostingpartij die als verwerker optreedt. Gegevens worden verder alleen gedeeld als dat nodig is voor de levering (bijvoorbeeld met een bezorger) of als de wet dat vereist."""]},
+        {"h2": "Cookies",
+         "paragraphs": ["""Deze website plaatst zelf geen marketing- of trackingcookies. Lettertypen en opmaak laden we vanaf onze eigen hosting, dus daarvoor worden geen externe diensten aangeroepen. De website kan in je browser pagina's en bestanden tijdelijk opslaan om sneller te laden; die opslag bevat geen persoonsgegevens en kun je via je browser wissen."""]},
+        {"h2": "Jouw rechten",
+         "paragraphs": ["""Onder de AVG heb je het recht om:"""],
+         "bullets": ["Inzage te vragen in de gegevens die wij van je bewaren", "Onjuiste gegevens te laten corrigeren", "Verwijdering van je gegevens te vragen", "Bezwaar te maken tegen bepaalde verwerkingen of je gegevens over te dragen"],
+         "after": ["""Je kunt deze rechten uitoefenen door contact met ons op te nemen via <a href="mailto:info@lachgasdenbosch.nl">info@lachgasdenbosch.nl</a>. Ben je niet tevreden over hoe wij met je gegevens omgaan, dan kun je een klacht indienen bij de Autoriteit Persoonsgegevens."""]},
+        {"h2": "Wijzigingen",
+         "paragraphs": ["""Wij kunnen dit privacybeleid van tijd tot tijd aanpassen. De meest actuele versie staat steeds op deze pagina."""]},
+    ],
+}

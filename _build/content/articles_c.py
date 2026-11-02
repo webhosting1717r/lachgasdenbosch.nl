@@ -1,0 +1,427 @@
+# -*- coding: utf-8 -*-
+# Kennisbank-artikelen (deel C, 9 stuks) voor lachgasdenbosch.nl: mentale gezondheid, de dag erna, feest thuis, mythes, begrippenlijst,
+# festivals, ouders, betrouwbare bezorgservice herkennen en voor het eerst bestellen. Schema: zie SCHEMA.md (ARTICLES).
+
+ARTICLES = [
+    {
+        "slug": "lachgas-en-mentale-gezondheid", "label": "Gezondheid",
+        "title": "Lachgas en mentale gezondheid: wat je moet weten",
+        "description": "Frequent lachgasgebruik kan samengaan met angst, somberheid en stemmingswisselingen. Lees hoe dat werkt en waar je in Den Bosch hulp vindt.",
+        "h1": "Lachgas en mentale gezondheid",
+        "lead": "Lachgas wordt meestal besproken als lichamelijk risico. Minder bekend is wat frequent gebruik met je stemming, je motivatie en je studie of werk kan doen, en wanneer hulp zoeken verstandig is.",
+        "updated": "november 2026",
+        "sections": [
+            {"h2": "Wat een korte roes met je stemming kan doen",
+             "paragraphs": [
+                 """Lachgas geeft een korte, heftige verandering van bewustzijn die na een paar minuten alweer voorbij is. Dat patroon van snel omhoog en snel omlaag is op zichzelf al belastend voor je stemming: wie een avond lang pieken en dalen afwisselt, voelt zich de volgende dag vaak vlak, prikkelbaar of leeg. Bij incidenteel gebruik trekt dat weg. Bij frequent gebruik beschrijven gebruikers en hulpverleners een somberheid die langer blijft hangen, meer onrust, slechter slapen en minder zin in dingen die eerst leuk waren. Dat is geen vaststaande medische uitkomst, maar een patroon dat vaak genoeg terugkomt om serieus te nemen.""",
+                 """Daarnaast speelt een lichamelijk mechanisme mee. Lachgas zet vitamine B12 buiten werking, en een tekort daaraan geeft niet alleen tintelingen, maar kan ook vermoeidheid, concentratieproblemen, geheugenklachten en stemmingsveranderingen veroorzaken. Wat in eerste instantie als een mentale klacht voelt, kan dus deels een B12-probleem zijn, en dat laat zich bij de huisarts met bloedonderzoek controleren. De achtergrond staat in <a href="/lachgas-informatie/lachgas-en-vitamine-b12/">lachgas en vitamine B12</a>.""",
+             ]},
+            {"h2": "Angst, somberheid en wisselingen bij frequent gebruik",
+             "paragraphs": [
+                 """Mensen die wekelijks of vaker gebruiken, melden geregeld angstklachten: een gejaagd gevoel, piekeren, soms paniekaanvallen. Somberheid komt daar vaak bij, net als stemmingswisselingen die voor de omgeving moeilijk te volgen zijn. Oorzaak en gevolg zijn lastig uit elkaar te halen: sommige mensen gaan juist meer gebruiken omdat ze zich al niet goed voelden, en het gas verergert vervolgens wat er al was. Voorlichting van het Trimbos-instituut wijst erop dat mensen met psychische klachten kwetsbaarder zijn voor de effecten van middelen; achtergrond vind je op <a href="https://www.trimbos.nl">trimbos.nl</a>.""",
+                 """Een apart gevolg is het verlies van grip. Wie merkt dat hij lachgas nodig heeft om te ontspannen of om een rotgevoel weg te drukken, schaamt zich daar vaak voor, en die schaamte leidt weer tot terugtrekken uit contact. Zo ontstaat een cirkel die er van buitenaf uitziet als ‘niet meer gezellig zijn’ en van binnenuit voelt als ‘niemand begrijpt het’. Die cirkel doorbreken begint bijna altijd met één gesprek met iemand die niet oordeelt, en dat hoeft geen hulpverlener te zijn.""",
+             ]},
+            {"h2": "Gewoontevorming en afhankelijkheid",
+             "paragraphs": [
+                 """Lachgas veroorzaakt zelden de lichamelijke ontwenning die bij alcohol of opiaten hoort, en dat wordt soms gelezen als ‘dus niet verslavend’. Geestelijke afhankelijkheid werkt anders: het gaat om het gevoel dat je het nodig hebt, om gebruiken op momenten dat je het niet van plan was, om een tank in huis hebben voor het geval dat. Omdat de roes zo kort duurt, nodigt het middel bovendien uit tot herhalen, en herhalen is precies hoe een gewoonte zich vastzet. In <a href="/lachgas-informatie/problematisch-lachgasgebruik-hulp/">hulp bij problematisch gebruik</a> staat een eerlijke zelfcheck.""",
+             ]},
+            {"h2": "Invloed op studie en werk",
+             "paragraphs": [
+                 """Den Bosch is een studentenstad, met Avans Hogeschool, HAS green academy, het Koning Willem I College en JADS aan de Sint Janssingel, en veel verhalen over lachgas komen uit studentenhuizen in de Muntel, de binnenstad en rond het Paleiskwartier. Frequent gebruik merk je in de collegebanken eerder dan je denkt: concentratie die wegzakt, deadlines die verschuiven, lessen die je overslaat omdat de ochtend niet lukt. Op het werk zijn het de kleine dingen: te laat komen, fouten die je eerder niet maakte, geen zin om met collega’s te praten. Niemand koppelt dat vanzelf aan lachgas, en juist dat maakt doorgaan makkelijk.""",
+                 """Opleidingen en werkgevers hebben hulp in huis die weinig mensen kennen. Een studentendecaan of studentenpsycholoog werkt vertrouwelijk, hoeft niet in detail te weten waarom en kan helpen met uitstel van tentamens of een aangepast tempo. Veel werkgevers hebben een bedrijfsarts of vertrouwenspersoon bij wie je los van je leidinggevende terechtkunt. Zo’n gesprek is geen bekentenis; het is regelen dat je studie of baan niet omvalt terwijl je aan het patroon werkt.""",
+             ]},
+            {"h2": "Wanneer en waar je hulp zoekt",
+             "paragraphs": [
+                 """Een vuistregel: zoek hulp als klachten langer dan een paar weken aanhouden, als ze je dagelijkse leven in de weg zitten, of als gebruiken je manier is geworden om je beter te voelen. De huisarts is de eerste stap en kan behalve een gesprek ook B12 laten meten en doorverwijzen. In Den Bosch en de rest van Noord-Brabant is <a href="https://www.novadic-kentron.nl">Novadic-Kentron</a> de organisatie voor verslavingszorg; zij behandelen middelengebruik en psychische klachten vaak in samenhang, omdat die zo dikwijls samen voorkomen. Anoniem lezen of chatten kan via <a href="https://www.drugsinfo.nl">drugsinfo.nl</a>.""",
+                 """Heb je gedachten over jezelf iets aandoen, wacht dan niet op een afspraak: neem direct contact op met de huisarts of de huisartsenpost, en bij acuut gevaar met 112. Dit is geen tekst om alleen mee te blijven zitten. Een vriend of huisgenoot die ervan weet, maakt die stap kleiner; je hoeft niet eerst alles zelf te regelen voordat je iemand belt.""",
+             ]},
+            {"h2": "Een vriend aanspreken",
+             "paragraphs": [
+                 """Maak je je zorgen over iemand in je omgeving, kies dan een nuchter moment en begin bij wat je ziet: ‘je bent de laatste tijd stiller en ik mis je’ werkt beter dan een opsomming van alles wat hij fout doet. Vraag hoe het gaat en accepteer dat het eerste antwoord ‘prima’ is. Bied iets concreets aan, zoals samen naar de huisarts of samen de informatie van Novadic-Kentron doornemen, en laat het daarna even rusten. Mensen veranderen zelden door één gesprek, maar ze onthouden wel wie het gesprek durfde te beginnen.""",
+                 """Hulp verlenen is niet ons vak; bezorgen wel. Wat wij kunnen doen, is uitsluitend aan volwassenen leveren en op elke pagina eerlijk zijn over wat lachgas kan aanrichten, ook met je stemming. Herken je bij jezelf of een ander het patroon dat hierboven staat, dan is niet bestellen de verstandigste keuze en een gesprek met de huisarts de tweede. Daar hoef je niet eerst een hele avond over na te denken.""",
+             ]},
+        ],
+        "note": "Dit artikel is geen medisch of psychologisch advies. Houden klachten aan of zitten ze je dagelijkse leven in de weg, neem dan contact op met je huisarts; bij acuut gevaar bel je 112.",
+        "related": ["problematisch-lachgasgebruik-hulp", "lachgas-en-vitamine-b12", "de-dag-na-lachgas", "lachgas-voor-ouders"],
+    },
+    {
+        "slug": "de-dag-na-lachgas", "label": "Gezondheid",
+        "title": "De dag na lachgas: nawerking en waar je op let",
+        "description": "Hoofdpijn, moe of misselijk na een avond met lachgas? Lees welke klachten de dag erna vaak voorkomen, welke signalen je niet afwacht en wat helpt.",
+        "h1": "De dag na lachgas",
+        "lead": "Een avond met lachgas laat zich de volgende dag vaak voelen. Dit artikel beschrijft welke nawerking gebruikelijk is, welke signalen een huisartsbezoek vragen en wat je beter laat.",
+        "updated": "november 2026",
+        "sections": [
+            {"h2": "Waarom je de dag erna iets voelt",
+             "paragraphs": [
+                 """Lachgas verlaat het lichaam snel en wordt vrijwel onveranderd weer uitgeademd. Toch voelen veel mensen de dag erna iets, en dat heeft meerdere oorzaken tegelijk. Tijdens het gebruik kreeg het lichaam herhaaldelijk minder zuurstof, wat hoofdpijn en een suf gevoel kan achterlaten. Een feestavond betekent daarnaast meestal weinig slaap, weinig eten en vaak ook alcohol, en die combinatie zorgt op zichzelf al voor een zware ochtend. Het is dus zelden mogelijk om precies te zeggen welk deel van de klachten van het gas komt en welk deel van de nacht.""",
+                 """Op de achtergrond speelt nog een mechanisme. Lachgas zet vitamine B12 tijdelijk buiten werking, en B12 is nodig voor de zenuwen en de aanmaak van rode bloedcellen. Bij incidenteel gebruik herstelt dat zich meestal zonder dat je er iets van merkt, maar bij herhaald of intensief gebruik kan het tekort oplopen en klachten geven die niet meer bij een gewone kater horen. Dat verschil is de kern van dit artikel. Meer over het mechanisme staat in <a href="/lachgas-informatie/lachgas-en-vitamine-b12/">lachgas en vitamine B12</a>.""",
+             ]},
+            {"h2": "Klachten die vaak voorkomen en meestal overgaan",
+             "paragraphs": [
+                 """Een doffe hoofdpijn, vermoeidheid, een licht misselijk gevoel en moeite om je te concentreren zijn de klachten die het vaakst worden genoemd. Sommige mensen voelen zich een dag wat vlak of prikkelbaar, of merken dat ze trager reageren dan normaal. Bij wie weinig heeft gegeten of veel heeft gedronken, komt daar een wankel gevoel bij dat vooral uit de nacht komt. Deze klachten nemen in de regel in de loop van de dag af. Houden ze langer aan dan een dag of twee, dan is dat een reden om niet te blijven gissen maar het aan een huisarts voor te leggen.""",
+                 """Er zijn ook klachten die niets met de roes te maken hebben, maar met de kou van het gas: een pijnlijke of opgezette lip, een branderig gevoel in de keel of een plek op de vingers die wit of rood is. Dat zijn bevriezingsverschijnselen. Lichte vormen genezen vanzelf, zoals een lichte brandwond; blaren, een plek die gevoelloos blijft of een lip die sterk opzwelt, laat je dezelfde dag beoordelen bij de huisarts of de huisartsenpost. In <a href="/lachgas-informatie/lachgas-bijwerkingen-en-eerste-hulp/">bijwerkingen en eerste hulp</a> staat wat je in de acute situatie doet.""",
+             ]},
+            {"h2": "Signalen die je niet afwacht",
+             "paragraphs": [
+                 """Een aantal klachten hoort niet bij een gewone kater en kan wijzen op een tekort aan vitamine B12 of op beginnende zenuwschade. Neem bij deze signalen dezelfde dag of de eerstvolgende werkdag contact op met de huisarts, en vertel eerlijk dat je lachgas hebt gebruikt en hoe vaak; een arts kan er alleen iets mee als hij het weet. Zenuwschade door lachgas is in een vroeg stadium vaak goed te behandelen, maar hoe langer je wacht, hoe groter de kans dat klachten blijven. Bronnen als <a href="https://www.drugsinfo.nl">drugsinfo.nl</a> beschrijven dezelfde alarmsignalen.""",
+             ],
+             "bullets": [
+                 "Tintelingen of een doof, ‘slapend’ gevoel in vingers, handen, tenen of voeten dat niet binnen een paar uur verdwijnt.",
+                 "Een onvaste gang, struikelen, moeite met trappen of het gevoel dat je benen niet goed meewerken.",
+                 "Spierzwakte, dingen uit je handen laten vallen of problemen met fijne bewegingen zoals knopen dichtmaken.",
+                 "Verwardheid, geheugengaten die niet door alcohol te verklaren zijn, of een stemming die dagenlang sterk somber of angstig blijft.",
+                 "Hartkloppingen, pijn op de borst of kortademigheid die niet overgaat: bel bij twijfel 112.",
+             ]},
+            {"h2": "Wat verstandig is op zo’n dag",
+             "paragraphs": [
+                 """Rust, water en gewoon eten zijn het eerlijke antwoord, hoe saai dat ook klinkt. Drink voldoende, eet iets stevigs en gun je lichaam een dag zonder nieuwe belasting: geen alcohol om de kater te verzachten en zeker geen lachgas om de vlakke stemming op te krikken. Een rondje door het Bossche Broek of langs de Dommel helpt veel mensen meer dan een dag op de bank, al is dat een ervaring en geen voorschrift. Wie medicijnen gebruikt en twijfelt over een wisselwerking, vraagt dat aan de apotheek of de huisarts.""",
+                 """Blijf de dag erna uit het verkeer zolang je je niet helemaal helder voelt. Vertraagd reageren en verminderde concentratie zijn precies wat je achter het stuur of op de fiets niet kunt gebruiken, en rijden terwijl je rijvaardigheid nog verminderd is, is strafbaar, hoe lang de roes zelf ook geleden is. Hoe de politie daarop controleert en wat de gevolgen zijn, staat in <a href="/lachgas-informatie/lachgas-in-het-verkeer/">lachgas in het verkeer</a>. Neem de bus of de trein vanaf station ’s-Hertogenbosch, of laat je ophalen.""",
+             ]},
+            {"h2": "Als de dag erna een vast patroon wordt",
+             "paragraphs": [
+                 """Een zware dag na een enkel feest is iets anders dan elke week een dag kwijt zijn. Merk je dat de nawerking vaker voorkomt, langer duurt of dat je ertegenop ziet omdat je weet dat je toch weer gaat gebruiken, dan zegt dat iets over het patroon en niet alleen over de avond. Bespreek het met de huisarts of lees <a href="/lachgas-informatie/problematisch-lachgasgebruik-hulp/">hulp bij problematisch gebruik</a>; in Brabant is <a href="https://www.novadic-kentron.nl">Novadic-Kentron</a> daarvoor het adres, ook voor een eerste vrijblijvend gesprek.""",
+                 """Wij schrijven dit niet omdat wij medisch advies geven, want dat doen wij niet. Wij schrijven het omdat wij een product bezorgen waarvan de risico’s goed gedocumenteerd zijn, en eerlijke informatie daarover bij onze dienst hoort. Lees voor een volgende bestelling ook <a href="/lachgas-informatie/veilig-gebruik/">veilig omgaan met lachgas</a>. Twijfel je over klachten, dan is het antwoord altijd hetzelfde: de huisarts, niet internet en niet een bezorgservice.""",
+             ]},
+        ],
+        "note": "Dit artikel vervangt geen medisch advies. Bij tintelingen, een doof gevoel of een onvaste gang neem je contact op met de huisarts; bij bewusteloosheid of ademhalingsproblemen bel je 112.",
+        "related": ["lachgas-en-vitamine-b12", "lachgas-bijwerkingen-en-eerste-hulp", "lachgas-in-het-verkeer", "lachgas-en-mentale-gezondheid"],
+    },
+    {
+        "slug": "feest-thuis-zonder-overlast", "label": "Praktisch",
+        "title": "Feest thuis zonder overlast: houd de buren te vriend",
+        "description": "Een feest thuis in Den Bosch zonder gedoe met buren of politie. Praktische afspraken over geluid, roken, afval, de lege tank en jouw rol als gastheer.",
+        "h1": "Feest thuis zonder overlast",
+        "lead": "Een huisfeest hoeft geen klachten op te leveren. Met een paar afspraken vooraf houd je het gezellig binnen, netjes buiten en veilig voor iedereen die komt, tot en met de weg naar huis.",
+        "updated": "november 2026",
+        "sections": [
+            {"h2": "Buren vooraf informeren",
+             "paragraphs": [
+                 """De meeste klachten over huisfeesten komen niet van het geluid zelf, maar van de verrassing. Een buur die weet dat er zaterdag gasten komen, dat het rond een bepaald tijdstip rustiger wordt en dat hij je kan appen als het te veel wordt, belt zelden de politie. Loop daarom een paar dagen vooraf even langs, of hang een briefje in de hal van het complex met je naam en de datum. In een studentenhuis in de Muntel, een appartement in het Paleiskwartier of een rijtjeshuis in Maaspoort of Rosmalen werkt dat precies hetzelfde: het verschil zit in de verwachting, niet in de straat.""",
+                 """Vertel ook kort wat er niet gaat gebeuren: geen muziek in de tuin na een bepaald tijdstip, geen spullen op straat, en morgen is de stoep weer schoon. Wie dat vooraf zegt, moet het daarna waarmaken, en dat is precies de bedoeling. Een buur die een goede ervaring heeft gehad, is de volgende keer coulanter; een buur die rondslingerende patronen voor zijn deur vond, nooit meer.""",
+             ]},
+            {"h2": "Geluid, tijden en de buitenruimte",
+             "paragraphs": [
+                 """Geluid draagt in Den Bosch net zo ver als overal: bassen gaan door muren, en een open raam of balkondeur maakt van een kamerfeest een straatfeest. Houd ramen en deuren dicht zodra het later wordt, zet de speaker niet tegen een gedeelde muur en spreek met je gasten een tijdstip af waarna het binnen zachter gaat. Op een doordeweekse avond ligt die grens eerder dan in een weekend. De gemeente kan bij aanhoudende geluidsoverlast optreden op grond van de APV, en de politie kan bij herhaalde klachten een feest beëindigen.""",
+                 """Roken en frisse lucht halen gebeurt op het balkon, in de tuin of op de stoep, en daar ontstaat de meeste overlast: harde stemmen om twee uur ’s nachts dragen verder dan muziek. Wijs één plek aan, vraag gasten zacht te praten en zorg voor een asbak, zodat er geen peuken in de tuin van de buren belanden. Een balkon is bovendien geen plek voor een tank of voor gasten die onvast op hun benen staan; houd dat binnen en op de grond.""",
+             ]},
+            {"h2": "Niets op straat: patronen, ballonnen en tanks",
+             "paragraphs": [
+                 """Weinig dingen irriteren een straat zo snel als lege patronen in de goot en slappe ballonnen in de heg de ochtend erna. Het is zwerfvuil, het valt onder de APV en het bevestigt elk vooroordeel over lachgas dat er in de buurt leeft. Spreek af dat niets wat met lachgas te maken heeft het huis verlaat: geen ballon mee naar buiten, geen patroon op de stoep, geen tank in het portiek of in de voortuin. Zet binnen een stevige zak of doos klaar voor patronen en gebruikte ballonnen, zodat niemand hoeft te zoeken.""",
+                 """Dezelfde regel geldt voor de tank zelf. Een tank staat binnen, rechtop en zo dat hij niet kan omvallen, weg van zon en warmtebronnen, en niet op het balkon of in een auto voor de deur. Wordt hij door gasten verplaatst, zet hem dan terug. Hoe je een cilinder bewaart en waarom, staat in <a href="/lachgas-informatie/lachgas-tank-bewaren-en-vervoeren/">tank bewaren en vervoeren</a>. Overweeg ook of een kleiner formaat niet volstaat; de keuzehulp <a href="/lachgas-informatie/lachgastank-2kg-4kg-of-10kg/">2KG, 4KG of 10KG</a> helpt daarbij zonder dat er meer in huis komt dan nodig.""",
+             ]},
+            {"h2": "Afval en de lege tank",
+             "paragraphs": [
+                 """De ochtend na het feest is het moment waarop de buurt beslist wat zij van je vindt. Ruim de stoep en de tuin op voordat de buren naar de bakker gaan. Lege patronen zijn kleine metalen drukhouders en horen niet in de goot of in de ondergrondse container voor restafval; hoe de gemeente ze wil ontvangen, lees je vooraf na. Een lege tank is geen gewoon afval: er staat druk op en er zit meestal nog wat gas in, dus hij hoort nooit in de kliko of bij het grofvuil. Bewaar hem tot je naar het milieustation gaat op dezelfde manier als een volle, en kijk vooraf op de website van de gemeente ’s-Hertogenbosch welke voorwaarden de Afvalstoffendienst stelt. De volledige route staat in <a href="/lachgas-informatie/lege-lachgastank-inleveren-den-bosch/">lege lachgastank inleveren in Den Bosch</a>.""",
+             ]},
+            {"h2": "Jouw verantwoordelijkheid als gastheer",
+             "paragraphs": [
+                 """Wie een feest geeft, is verantwoordelijk voor wat er in huis gebeurt. Dat begint bij de gastenlijst: lachgas is uitsluitend iets voor volwassenen, en wij leveren alleen aan personen van 18 jaar en ouder die zich aan de deur kunnen legitimeren. Zorg dat er geen minderjarigen zijn op een feest waar een tank staat, en wees daar streng in, ook bij jongere broers, zussen of vrienden die ‘alleen even komen kijken’. Spreek vooraf af wie nuchter blijft: één persoon die oplet, water aanreikt en weet wat te doen als iemand niet goed wordt.""",
+                 """De tweede verantwoordelijkheid ligt bij de deur, aan het einde van de avond. Niemand die heeft gebruikt of gedronken stapt op de fiets, de scooter of in de auto; regel vooraf wie blijft slapen, wie een taxi deelt en wie wordt opgehaald. In <a href="/lachgas-informatie/lachgas-in-het-verkeer/">lachgas in het verkeer</a> staat waarom dat niet alleen een kwestie van fatsoen is. Wordt iemand bewusteloos of ademt hij vreemd, bel dan 112 en zeg wat er is gebruikt; wat je verder doet, staat in <a href="/lachgas-informatie/lachgas-bijwerkingen-en-eerste-hulp/">bijwerkingen en eerste hulp</a>.""",
+             ]},
+            {"h2": "Lokale regels, in het kort",
+             "paragraphs": [
+                 """Voor een feest in je eigen woning heb je in Den Bosch geen vergunning nodig, maar de APV geldt wel: geluidsoverlast, zwerfvuil en overlast op straat kunnen door gemeentelijke handhavers en de politie worden aangepakt, en wie huurt of op een studentenkamer woont, zit ook aan de regels van de verhuurder vast. Lachgas is daarnaast sinds 2023 een gereguleerde stof onder de Opiumwet. Wat dat voor jou in Den Bosch betekent, lees je in <a href="/lachgas-informatie/lachgas-regels-den-bosch/">lachgasregels in Den Bosch</a>; de actuele tekst staat op de website van de gemeente en op <a href="https://www.rijksoverheid.nl">rijksoverheid.nl</a>.""",
+             ]},
+        ],
+        "note": "Lachgas is uitsluitend voor 18+. De gastheer blijft verantwoordelijk voor wat er in huis gebeurt; wij leveren alleen aan de deur van een woonadres aan iemand die zich kan legitimeren.",
+        "related": ["/lachgas-feest-evenement/", "lege-lachgastank-inleveren-den-bosch", "lachgas-regels-den-bosch", "lachgas-in-het-verkeer"],
+    },
+    {
+        "slug": "lachgas-mythes-en-feiten", "label": "Achtergrond",
+        "title": "Tien mythes over lachgas en wat er echt van klopt",
+        "description": "Lachgas is maar lucht, overal verboden en na een minuut uitgewerkt? Tien veelgehoorde misverstanden over lachgas naast de feiten, met bronnen.",
+        "h1": "Lachgas: tien mythes en de feiten",
+        "lead": "Over lachgas gaan hardnekkige verhalen rond, van ‘het is maar lucht’ tot ‘een lege tank mag in de kliko’. Hier zetten we tien misverstanden naast wat er feitelijk over bekend is.",
+        "updated": "november 2026",
+        "sections": [
+            {"h2": "Over de stof zelf",
+             "paragraphs": [
+                 """Lachgas heet officieel distikstofmonoxide en wordt al bijna twee eeuwen in de geneeskunde gebruikt en al decennia als drijfgas in de keuken. Juist omdat het zo gewoon klinkt, onderschatten veel mensen wat het in een lichaam doet. De twee misverstanden hieronder horen we het vaakst van mensen die voor het eerst bestellen; de weerlegging komt van het Trimbos-instituut en <a href="https://www.drugsinfo.nl">drugsinfo.nl</a>.""",
+             ],
+             "bullets": [
+                 "Mythe: lachgas is eigenlijk gewoon lucht en kan dus geen kwaad. Feit: tijdens het inademen van lachgas krijgt je lichaam minder zuurstof, waardoor je duizelig kunt worden en kunt vallen. Het gas zet daarnaast vitamine B12 buiten werking, wat bij herhaald gebruik tot zenuwschade kan leiden.",
+                 """Mythe: het enige risico zit in het gas zelf, niet in de verpakking. Feit: gas dat uit een tank of patroon komt, is tientallen graden onder nul. Contact met de kraan, een cracker of de gasstroom geeft bevriezingsletsel aan lippen, vingers en luchtwegen. Daarom gaat <a href="/lachgas-informatie/lachgas-bijwerkingen-en-eerste-hulp/">eerste hulp</a> bij lachgas zo vaak over bevriezing en niet alleen over de roes.""",
+             ]},
+            {"h2": "Over de wet",
+             "paragraphs": [
+                 """Lachgas staat sinds begin 2023 op lijst II van de Opiumwet, en die ene zin wordt op twee manieren verkeerd begrepen: alsof het gas nu volledig en overal verboden is, of alsof patronen uit de winkel erbuiten vallen. Beide lezingen kloppen niet, en beide leiden in de praktijk tot verkeerde keuzes aan de deur of op straat. De officiële toelichting staat op <a href="https://www.rijksoverheid.nl">rijksoverheid.nl</a>; in <a href="/lachgas-informatie/is-lachgas-legaal-in-nederland/">is lachgas legaal in Nederland</a> zetten we het kader uitgebreider uiteen.""",
+             ],
+             "bullets": [
+                 "Mythe: lachgas is in Nederland in alle vormen verboden. Feit: de Opiumwet verbiedt bezit, verkoop, vervoer en productie van lachgas voor recreatief gebruik, maar kent uitzonderingen voor medische toepassingen, technische toepassingen en gebruik als voedingsadditief. Het gas is dus niet uit Nederland verdwenen; wat verboden is, is het recreatieve circuit. Dat is iets anders dan ‘alles mag’ en iets anders dan ‘niets mag’.",
+                 """Mythe: een slagroompatroon is iets anders dan een tank, dus daar gelden andere regels voor. Feit: in een patroon zit exact dezelfde stof als in een 2KG- of 10KG-tank, alleen in een kleinere verpakking. De wet kijkt naar de stof en het doel, niet naar de maat van de cilinder. Lees ook <a href="/lachgas-informatie/kraan-regulator-of-cracker/">kraan, regulator of cracker</a>.""",
+             ]},
+            {"h2": "Over verkeer en combinaties",
+             "paragraphs": [
+                 """Lachgas werkt kort, en juist die korte werking maakt deze twee mythes zo hardnekkig. Dat een roes na een paar minuten voorbij lijkt, betekent niet dat je rijvaardigheid hersteld is, en al helemaal niet dat je zonder extra risico iets anders erbij kunt nemen. Beide onderwerpen hebben een eigen pagina: <a href="/lachgas-informatie/lachgas-in-het-verkeer/">lachgas in het verkeer</a> en <a href="/lachgas-informatie/lachgas-en-alcohol/">lachgas en alcohol</a>.""",
+             ],
+             "bullets": [
+                 "Mythe: je merkt lachgas niet in het verkeer, want na een minuut is het uitgewerkt. Feit: rijden onder invloed van lachgas valt onder het verbod op rijden onder invloed van stoffen die de rijvaardigheid beïnvloeden, en de politie controleert daarop, ook op de A2 en de A59 rond Den Bosch. Nawerking als duizeligheid, verminderde concentratie en trager reageren kan langer aanhouden dan de roes zelf.",
+                 "Mythe: lachgas en alcohol versterken elkaar alleen op een prettige manier. Feit: de combinatie vergroot de kans op misselijkheid, overgeven, vallen en bewustzijnsverlies, omdat beide middelen het reactievermogen en de controle over je lichaam verminderen. Wie gedronken heeft, merkt bovendien minder goed dat zijn lippen bevriezen. Voorlichtingsorganisaties waarschuwen daarom apart voor deze combinatie.",
+             ]},
+            {"h2": "Over gezondheid op de langere termijn",
+             "paragraphs": [
+                 """Veel mensen weten inmiddels dat lachgas iets met vitamine B12 doet, maar trekken daar de verkeerde conclusie uit: dat een pilletje het oplost. En het idee dat je van lachgas niet afhankelijk kunt worden, klopt maar half, zoals hulpverleners in de praktijk zien. Achtergrond bij beide onderwerpen vind je in <a href="/lachgas-informatie/lachgas-en-vitamine-b12/">lachgas en vitamine B12</a> en op <a href="https://www.trimbos.nl">trimbos.nl</a>, dat de kennis over lachgas in Nederland bijhoudt.""",
+             ],
+             "bullets": [
+                 "Mythe: als je extra vitamine B12 slikt, kun je zo vaak gebruiken als je wilt. Feit: lachgas maakt de B12 in je lichaam onwerkzaam; een supplement vult de voorraad aan, maar beschermt niet tegen de blokkade zelf en zeker niet bij frequent gebruik. Tintelingen, een doof gevoel in handen of voeten of een onvaste gang zijn signalen om direct naar de huisarts te gaan, niet om meer vitamine te nemen.",
+                 """Mythe: aan lachgas kun je niet verslaafd raken. Feit: lichamelijke afhankelijkheid zoals bij alcohol of opiaten komt bij lachgas weinig voor, maar geestelijke afhankelijkheid en gewoontevorming wel. Hulpverleners zien ook mensen voor wie lachgas een dagelijkse routine is geworden. Hoe je dat herkent, staat in <a href="/lachgas-informatie/problematisch-lachgasgebruik-hulp/">hulp bij problematisch gebruik</a>.""",
+             ]},
+            {"h2": "Over afval en bestellen",
+             "paragraphs": [
+                 """De laatste twee misverstanden gaan niet over de stof, maar over de praktijk eromheen: wat je met een lege tank doet en wie bij ons iets kan bestellen. Allebei leiden ze in Den Bosch geregeld tot ergernis in de buurt of tot een geweigerde levering aan de deur, en daarom staan ze in deze lijst. Wie het antwoord kent, bespaart iedereen een vervelende verrassing.""",
+             ],
+             "bullets": [
+                 """Mythe: een lege lachgastank mag bij het restafval of in de ondergrondse container. Feit: een lege tank is een stalen drukhouder waar vaak nog een rest gas in zit. In de pers van een vuilniswagen of in een afvaloven kan hij openscheuren. De Afvalstoffendienst van de gemeente ’s-Hertogenbosch neemt drukhouders apart in op het milieustation; de route beschrijven we in <a href="/lachgas-informatie/lege-lachgastank-inleveren-den-bosch/">lege lachgastank inleveren in Den Bosch</a>.""",
+                 """Mythe: een bezorgservice vraagt toch nooit naar je leeftijd. Feit: bij ons geldt een harde grens van 18 jaar en de bezorger vraagt aan de deur om een identiteitsbewijs. Zonder legitimatie gaat de tank mee terug, hoe de bestelling ook is bevestigd. Een dienst die dat niet doet, neemt de regels niet serieus; zie <a href="/lachgas-informatie/betrouwbare-lachgas-bezorgservice-herkennen/">een betrouwbare bezorgservice herkennen</a>.""",
+             ]},
+        ],
+        "note": "Dit overzicht is bedoeld als feitelijke informatie en geen aanmoediging tot gebruik. Raadpleeg voor de actuele wettekst rijksoverheid.nl en voor gezondheidsvragen je huisarts.",
+        "related": ["is-lachgas-legaal-in-nederland", "lachgas-en-vitamine-b12", "lachgas-in-het-verkeer", "wat-is-lachgas"],
+    },
+    {
+        "slug": "begrippenlijst-lachgas", "label": "Achtergrond",
+        "title": "Begrippenlijst lachgas: termen van A tot Z uitgelegd",
+        "description": "Van ballon en bevriezingsletsel tot verzegeling en zuurstoftekort: een alfabetische begrippenlijst met de termen rond lachgas, tanks en de wet.",
+        "h1": "Begrippenlijst lachgas",
+        "lead": "Rond lachgas gaan veel woorden rond die niet iedereen kent. Deze lijst legt de belangrijkste termen kort uit, van de stof zelf tot de wet en de praktijk van bezorgen in Den Bosch.",
+        "updated": "november 2026",
+        "sections": [
+            {"h2": "A tot D",
+             "paragraphs": [
+                 """De eerste letters van het alfabet bevatten de termen die je het vaakst hoort: de spullen die bij lachgas horen en de naam van de stof zelf. Ook de APV staat hier, omdat die in Den Bosch bepaalt wat er op straat wel en niet mag. De uitleg is bewust kort; waar een eigen artikel bestaat, vind je dat onder ‘verder lezen’. Deze lijst is geen handleiding en beschrijft geen gebruik.""",
+             ],
+             "bullets": [
+                 "APV: de Algemene Plaatselijke Verordening van een gemeente, met regels over openbare orde en overlast; ’s-Hertogenbosch kan hierin gebieden aanwijzen waar lachgas op straat extra wordt aangepakt.",
+                 "Ballon: een gewone feestballon; bij recreatief gebruik een vast attribuut, en daarna vaak zwerfvuil in goot of heg.",
+                 "Bevriezingsletsel: schade aan huid of slijmvlies door contact met ijskoud gas of metaal, vooral aan lippen, vingers en keel.",
+                 "Bezorggebied: het gebied waarin een dienst levert; bij ons Den Bosch met Rosmalen en de dorpen van de gemeente, de Meierij, het Maasland, de Langstraat en de Bommelerwaard.",
+                 "Cilinder: de stalen drukhouder waarin lachgas vloeibaar onder druk is opgeslagen; in de praktijk hetzelfde woord als tank.",
+                 "Cracker: een metalen hulpstuk dat een slagroompatroon doorboort zodat het gas vrijkomt; het wordt daarbij zeer koud.",
+                 "Distikstofmonoxide: de chemische naam van lachgas, twee stikstofatomen en één zuurstofatoom; kleurloos en licht zoet van geur.",
+                 "Drukhouder: elke houder waarin gas onder druk zit, van patroon tot tank; hoort nooit bij het restafval maar bij het milieustation.",
+             ]},
+            {"h2": "E tot K",
+             "paragraphs": [
+                 """Hier staan termen over gewoonte, veiligheid en de praktijk aan de deur. Eén ervan is typisch Bosch: Oeteldonk, de naam van de stad tijdens carnaval. Huisregels bepalen wat organisatoren op hun terrein toestaan, identiteitscontrole gaat over hoe een bezorgservice zich aan de deur hoort te gedragen, en gewoontevorming over het moment waarop gebruik een patroon wordt.""",
+             ],
+             "bullets": [
+                 "Gewoontevorming: het proces waarbij incidenteel gebruik een vast patroon wordt; bij lachgas vooral geestelijk.",
+                 "Huisregels: de voorwaarden van een organisator of verhuurder voor zijn terrein; op festivals staat lachgas doorgaans bij de verboden voorwerpen.",
+                 "Identiteitscontrole: de controle van een geldig identiteitsbewijs aan de deur, om vast te stellen dat de ontvanger 18 jaar of ouder is.",
+                 "Kraan: het afsluitventiel bovenop een tank; moet dicht staan bij bewaren, vervoeren en inleveren.",
+             ]},
+            {"h2": "L tot P",
+             "paragraphs": [
+                 """In dit deel zitten de juridische kernbegrippen, de Opiumwet en lijst II, en de organisatie waar je in Brabant terechtkunt voor hulp. Daarnaast de termen die te maken hebben met het product zelf en met wat je de dag erna kunt voelen. Voor de wet geldt steeds: de tekst op rijksoverheid.nl is leidend, onze uitleg is een samenvatting in gewone woorden.""",
+             ],
+             "bullets": [
+                 "Leeftijdsgrens: de ondergrens van 18 jaar die wij voor elke levering hanteren.",
+                 "Lijst II: de lijst van de Opiumwet waarop lachgas sinds 1 januari 2023 staat; bezit, verkoop en vervoer voor recreatief gebruik zijn daarmee strafbaar.",
+                 "Milieustation: de gemeentelijke plek voor afval dat niet in de containers thuishoort, waaronder lege lachgastanks; in Den Bosch beheerd door de Afvalstoffendienst.",
+                 "N2O: de scheikundige formule van lachgas, die je op tanks, patronen en in wetteksten tegenkomt.",
+                 "Nawerking: klachten na afloop van de roes, zoals hoofdpijn en vermoeidheid; tintelingen of een doof gevoel horen daar niet bij en vragen een huisarts.",
+                 "Novadic-Kentron: de instelling voor verslavingszorg in Noord-Brabant, voor advies en behandeling, ook voor naasten.",
+                 "Oeteldonk: de naam van ’s-Hertogenbosch tijdens carnaval; in die dagen lopen levertijden op en bezorgen wij uitsluitend aan woonadressen.",
+                 "Opiumwet: de wet die bepaalt welke middelen verboden zijn; kent uitzonderingen voor medisch, technisch en culinair gebruik van lachgas.",
+                 "Patroon (cartridge): een klein stalen wegwerpbusje met lachgas; dezelfde stof als in een tank en onder dezelfde wet.",
+             ]},
+            {"h2": "R tot Z",
+             "paragraphs": [
+                 """Het laatste deel bevat de technische termen rond tanks, de betaalwijze en de gezondheidsbegrippen die in voorlichting steeds terugkomen: vitamine B12, zenuwschade en zuurstoftekort. Ook visitatie staat hier, omdat die bij evenementen in Den Bosch de gewone gang van zaken is. Wie een term mist, kan ons een bericht sturen via WhatsApp; wij vullen de lijst dan aan.""",
+             ],
+             "bullets": [
+                 "Regulator: een drukregelaar die op een tank wordt geschroefd en de afgifte van het gas regelt en dempt.",
+                 "Restgas: het gas dat in een ‘lege’ tank achterblijft; de reden dat drukhouders bij afvalverwerking kunnen openscheuren.",
+                 "Slagroompatroon: de oorspronkelijke, culinaire naam van het lachgaspatroon, bedoeld als drijfgas in een slagroomspuit.",
+                 "Tank (2KG, 4KG, 10KG): een lachgascilinder met kraan; het getal is het gewicht van de inhoud. Welk formaat past, hangt af van gezelschap en duur.",
+                 "Tikkie: een betaalverzoek dat de bezorger bij de overdracht stuurt; naast contant onze betaalwijze, nooit vooraf.",
+                 "Verzegeling: de zegel over kraan of aansluiting die laat zien dat een tank na het vullen niet is geopend; controleer die voordat je betaalt.",
+                 "Visitatie: de controle van tassen en zakken bij de ingang van een evenement, door beveiliging, als voorwaarde voor toegang.",
+                 "Vitamine B12: een vitamine die lachgas onwerkzaam maakt; een tekort door herhaald gebruik kan tintelingen, een doof gevoel en zenuwschade veroorzaken.",
+                 "Wegenverkeerswet: de wet die rijden onder invloed van stoffen die de rijvaardigheid beïnvloeden strafbaar stelt, dus ook lachgas.",
+                 "Zenuwschade: beschadiging van zenuwen door een B12-tekort; begint vaak met tintelingen in handen en voeten.",
+                 "Zuurstoftekort: het gebrek aan zuurstof zolang iemand lachgas in plaats van lucht inademt; oorzaak van duizeligheid, vallen en soms bewusteloosheid.",
+             ]},
+        ],
+        "note": "Deze begrippenlijst is bedoeld als naslag en beschrijft geen gebruik. Voor de wettekst geldt rijksoverheid.nl, voor gezondheidsvragen je huisarts.",
+        "related": ["wat-is-lachgas", "kraan-regulator-of-cracker", "is-lachgas-legaal-in-nederland", "lachgas-en-vitamine-b12"],
+    },
+    {
+        "slug": "lachgas-op-festivals-en-evenementen", "label": "Regels",
+        "title": "Lachgas op festivals en evenementen: regels en praktijk",
+        "description": "Lachgas op een festival, concert of kermis? Lees welke huisregels en verboden gelden, wat er gebeurt bij controle en waarom wij alleen aan huis leveren.",
+        "h1": "Lachgas op festivals en evenementen",
+        "lead": "Festivalterreinen, concertzalen en de kermis in en rond Den Bosch hebben eigen regels bovenop de wet. Dit is wat je kunt verwachten bij controle en waarom wij niet op een terrein bezorgen.",
+        "updated": "november 2026",
+        "sections": [
+            {"h2": "Huisregels van de organisator gaan voor",
+             "paragraphs": [
+                 """Een festivalterrein, een concertzaal of een feesttent is particulier terrein, ook als het op openbare grond staat zoals de Pettelaarse Schans tijdens het Bevrijdingsfestival of de Parade en de Markt tijdens carnaval. De organisator bepaalt via huisregels wat er mee naar binnen mag, en wie een kaartje koopt, gaat met die regels akkoord. Bij de meeste evenementen in Nederland staat lachgas, in welke verpakking dan ook, op de lijst van verboden voorwerpen, naast glas, eigen drank en wapens. Dat staat op de website en op het toegangsbewijs, en bij de ingang hangt het nog een keer.""",
+                 """Bij de toegang vindt doorgaans een visitatie plaats: een beveiliger vraagt je je tas te openen en kan je zakken laten leegmaken. Dat is geen fouillering door de politie, maar een voorwaarde voor toegang; weiger je, dan kom je niet binnen. Patronen, een cracker of een ballon worden op dat moment gevonden en ingenomen. Ook op het terrein lopen beveiligers rond die bij gebruik ingrijpen. Organisatoren doen dat niet om vervelend te zijn, maar omdat zij verantwoordelijk zijn voor de veiligheid op hun terrein en voor de vergunning die de gemeente hun heeft verleend.""",
+             ]},
+            {"h2": "Lokale verboden en het landelijke kader",
+             "paragraphs": [
+                 """Boven de huisregels staan twee lagen overheidsregels. Landelijk staat lachgas sinds 1 januari 2023 op lijst II van de Opiumwet, wat bezit, verkoop en vervoer voor recreatief gebruik strafbaar maakt, met uitzonderingen voor medisch, technisch en culinair gebruik; de toelichting staat op <a href="https://www.rijksoverheid.nl">rijksoverheid.nl</a>. Lokaal kan de gemeente ’s-Hertogenbosch via de APV gebieden aanwijzen waar gebruik en overlast op straat extra worden aangepakt, bijvoorbeeld rond evenementen en in het uitgaansgebied rond de Markt en de Parade. Welke bepalingen nu gelden, lees je op de website van de gemeente.""",
+                 """Voor de Bossche kermis, Jazz in Duketown, Theaterfestival Boulevard, de carnavalsdagen in Oeteldonk of een concert in de binnenstad betekent dit dat je met drie partijen tegelijk te maken hebt: de organisator met zijn huisregels, gemeentelijke handhavers die op de APV letten en de politie die de Opiumwet handhaaft. Rond een groot evenement geldt bovendien vaak tijdelijk extra toezicht in de omliggende straten. Hoe die lagen zich tot elkaar verhouden, beschrijven we uitgebreider in <a href="/lachgas-informatie/lachgas-regels-den-bosch/">lachgasregels in Den Bosch</a>.""",
+             ]},
+            {"h2": "Wat er gebeurt als het wordt aangetroffen",
+             "paragraphs": [
+                 """Wat er precies gebeurt, hangt af van wie het vindt en van wat er wordt gevonden. Een boete kan ter plekke worden uitgeschreven of later per post volgen; de hoogte van een straf bepaalt het Openbaar Ministerie of de rechter, niet een beveiliger en zeker niet wij. Wie hierover zekerheid wil, raadpleegt de gemeente of de rijksoverheid, niet een bezorgservice. In grote lijnen loopt het zo.""",
+             ],
+             "bullets": [
+                 "Bij de ingang: de spullen worden ingenomen en niet teruggegeven; vaak mag je alsnog naar binnen, bij herhaling of een grote hoeveelheid kan de toegang worden geweigerd.",
+                 "Op het terrein: de beveiliging kan je verwijderen zonder teruggave van je kaartje; bij een tank of een groot aantal patronen wordt doorgaans de politie erbij gehaald.",
+                 "Op straat in een aangewezen gebied: een handhaver of agent kan een boete opleggen op grond van de APV en de spullen in beslag nemen.",
+                 """Met een tank in de auto of op de fiets onderweg: dat raakt de Opiumwet en mogelijk de Wegenverkeerswet; zie <a href="/lachgas-informatie/lachgas-in-het-verkeer/">lachgas in het verkeer</a>.""",
+                 "Bij een medische situatie: hulpverleners op het terrein helpen altijd, ook als het middel verboden is; zeg eerlijk wat er is gebruikt.",
+             ]},
+            {"h2": "Waarom wij alleen aan huisadressen leveren",
+             "paragraphs": [
+                 """Wij bezorgen uitsluitend aan de deur van een woonadres of een gehuurde binnenruimte, en nooit op een evenemententerrein, bij de ingang van een festival, op de kermis of op een parkeerplaats ernaast. Dat heeft drie redenen. Een levering op zo’n plek botst met de huisregels van de organisator en vaak met een APV-aanwijzing. Een bezorger kan op een druk terrein niet rustig controleren wie hij voor zich heeft, terwijl wij aan elke deur om een identiteitsbewijs vragen; zie <a href="/leeftijdscontrole-18-plus/">leeftijdscontrole 18+</a>. En een tank die op straat wordt overhandigd, eindigt te vaak als zwerfvuil in de berm.""",
+                 """Krijgen wij een bestelling met als adres een terrein, een tent of ‘bij het hek’, dan leveren wij niet en zeggen wij dat vooraf, zodat niemand voor niets staat te wachten. Hetzelfde geldt voor de parkeerplaats bij de Pettelaarse Schans, een hoek van de Parade of het festivalterrein van Paaspop in Schijndel. Tijdens de drukste dagen van het jaar, zoals carnaval, houden wij daar extra strak aan vast; op <a href="/lachgas-carnaval-den-bosch/">lachgas tijdens carnaval in Oeteldonk</a> staat hoe wij die dagen werken.""",
+             ]},
+            {"h2": "Een alternatief: thuis, na afloop",
+             "paragraphs": [
+                 """Wie na een festival of concert thuis nog iets wil plannen met vrienden, kan een tank vooraf laten bezorgen op het woonadres, op een moment dat er iemand van 18 jaar of ouder thuis is om de overdracht te doen. Dat voorkomt een geweigerde levering op het terrein en gedoe bij de ingang. Op <a href="/lachgas-feest-evenement/">lachgas voor een feest of evenement</a> staat hoe je dat voor een groter gezelschap aanpakt, en in <a href="/lachgas-informatie/feest-thuis-zonder-overlast/">feest thuis zonder overlast</a> wat je met buren en afval regelt.""",
+                 """Twee dingen horen daar onlosmakelijk bij. Wie van het festival naar huis rijdt, fietst of scootert, doet dat nuchter en gebruikt pas als het vervoer achter de rug is. En wie al een avond heeft gedronken, combineert dat niet met lachgas: de risico’s van <a href="/lachgas-informatie/lachgas-en-alcohol/">lachgas en alcohol</a> samen zijn groter dan van elk apart. Een festivaldag eindigt beter met een nuchter iemand in de groep die de overdracht aan de deur doet en de rest in de gaten houdt.""",
+             ]},
+        ],
+        "note": "Huisregels, APV-bepalingen en aangewezen gebieden wijzigen per evenement en per jaar. Raadpleeg de organisator en de gemeente ’s-Hertogenbosch voor de actuele regels; deze pagina is geen juridisch advies.",
+        "related": ["lachgas-regels-den-bosch", "/lachgas-feest-evenement/", "lachgas-in-het-verkeer", "/lachgas-carnaval-den-bosch/"],
+    },
+    {
+        "slug": "lachgas-voor-ouders", "label": "Gezondheid",
+        "title": "Lachgas: informatie voor ouders en opvoeders",
+        "description": "Wat is lachgas, waarom gebruiken jongeren het en welke signalen zie je als ouder? Feiten, gesprekstips en hulpadressen in Den Bosch en omgeving.",
+        "h1": "Lachgas: wat ouders en opvoeders willen weten",
+        "lead": "Je hoort het woord op school, ziet een patroon in de berm of vindt iets op de kamer van je kind. Dit is wat lachgas is, hoe je signalen herkent en hoe je het gesprek voert.",
+        "updated": "november 2026",
+        "sections": [
+            {"h2": "Wat lachgas is en hoe je het herkent",
+             "paragraphs": [
+                 """Lachgas is de alledaagse naam voor distikstofmonoxide, een gas dat in de zorg als pijnstiller en in de keuken als drijfgas voor slagroom wordt gebruikt. Recreatief wordt het ingeademd voor een roes van hooguit een paar minuten, gevolgd door duizeligheid en soms misselijkheid. Het gas zit in kleine stalen patronen voor slagroomspuiten of in grotere cilinders met een kraan, de tanks; een cracker is het hulpstuk waarmee patronen worden geopend. Meer achtergrond staat in <a href="/lachgas-informatie/wat-is-lachgas/">wat is lachgas</a>.""",
+                 """Wat je als ouder tegenkomt, zijn meestal de spullen: zilverkleurige patronen ter grootte van een duim, slappe ballonnen, een cracker, of een cilinder van een paar kilo met een kraan en soms een slang eraan. Lege patronen in bermen en rond hangplekken zijn in veel Nederlandse steden een bekend straatbeeld, ook in Den Bosch en de dorpen eromheen. Het gas laat geen geur achter op kleding, waardoor gebruik moeilijker te merken is dan roken of drinken; veel ouders ontdekken het pas als ze spullen vinden.""",
+             ]},
+            {"h2": "Waarom jongeren het gebruiken",
+             "paragraphs": [
+                 """De redenen die jongeren zelf noemen zijn herkenbaar: de roes is kort, het voelt ongevaarlijk omdat het ‘maar gas’ is, en het hoort bij een avond met vrienden. Tot 2023 lag lachgas bovendien gewoon in de winkel en werden tanks openlijk aangeboden, waardoor het imago van een normaal product is blijven hangen. Groepsdruk, nieuwsgierigheid en verveling spelen mee. Voor sommige jongeren is het ook een manier om spanning of somberheid even kwijt te zijn, en bij die groep loopt het gebruik het eerst uit de hand.""",
+                 """Het helpt om te beseffen dat gebruik bij de meeste jongeren incidenteel blijft en ophoudt zodra de nieuwigheid eraf is. Dat bepaalt de toon van een gesprek: wie bij de eerste gevonden ballon reageert alsof er een ernstige verslaving is, verliest contact; wie niets zegt, laat een kans liggen. Feitelijke informatie waarmee jongeren én ouders uit de voeten kunnen, staat op <a href="https://www.drugsinfo.nl">drugsinfo.nl</a>.""",
+             ]},
+            {"h2": "Signalen waar je op kunt letten",
+             "paragraphs": [
+                 """Geen enkel signaal bewijst op zichzelf dat je kind lachgas gebruikt; het gaat om de combinatie en om veranderingen ten opzichte van hoe iemand normaal is. Tintelingen, een doof gevoel en evenwichtsproblemen zijn geen gedragssignalen maar medische: ze kunnen wijzen op zenuwschade door een tekort aan vitamine B12 en zijn een reden om dezelfde week nog een huisarts te bezoeken, los van elk gesprek over gebruik. Lees <a href="/lachgas-informatie/lachgas-en-vitamine-b12/">lachgas en vitamine B12</a> voor de achtergrond. Let verder op het volgende.""",
+             ],
+             "bullets": [
+                 "Spullen: patronen, een cracker, ballonnen of een cilinder op de kamer, in een tas of in de auto, of lege patronen vlak bij huis.",
+                 "Lichamelijk: tintelingen of een doof gevoel in handen en voeten, struikelen, blauwe plekken van vallen, een branderige of beschadigde lip.",
+                 "Gedrag: vaker moe en prikkelbaar, concentratieproblemen, dalende schoolresultaten, geheugenproblemen of een nieuwe vriendengroep waar je weinig over hoort.",
+                 "Geld: zakgeld dat sneller op is dan vroeger, lenen van vrienden of spullen die verdwijnen.",
+                 "Stemming: somberheid, angstklachten of stemmingswisselingen die er eerder niet waren, vooral bij frequent gebruik.",
+             ]},
+            {"h2": "Waarom het op jonge leeftijd extra risico geeft",
+             "paragraphs": [
+                 """De hersenen ontwikkelen zich door tot ongeveer het vijfentwintigste levensjaar, en juist de delen die impulsen remmen en gevolgen inschatten zijn het laatst klaar. Herhaald zuurstoftekort en een verstoorde B12-huishouding treffen een lichaam dat nog in opbouw is. Jongeren nemen signalen van zenuwschade bovendien minder snel serieus. Voorlichting van het Trimbos-instituut noemt jongeren dan ook een kwetsbare groep; achtergrond vind je op <a href="https://www.trimbos.nl">trimbos.nl</a>.""",
+                 """Een afzonderlijk risico is het verkeer. Jongeren fietsen en scooteren veel, ook ’s nachts, bijvoorbeeld tussen Rosmalen of Vught en de binnenstad, en lachgas in combinatie met een fiets of scooter leidt tot valpartijen en aanrijdingen. Vraag daarom ook hoe je kind thuiskomt. Wat de wet zegt over rijden onder invloed staat in <a href="/lachgas-informatie/lachgas-in-het-verkeer/">lachgas in het verkeer</a>; wat er gebeurt bij een combinatie met drank in <a href="/lachgas-informatie/lachgas-en-alcohol/">lachgas en alcohol</a>.""",
+             ]},
+            {"h2": "Het gesprek: nieuwsgierig, niet veroordelend",
+             "paragraphs": [
+                 """Kies een rustig moment, niet het moment waarop je iets vindt. Begin bij wat je zag en wat dat met je doet: ‘ik vond patronen in je tas en ik maak me zorgen’ zet de deur open, ‘je gaat me nu uitleggen wat dit is’ sluit hem. Vraag wat je kind zelf over lachgas weet en luister, ook als het antwoord nonchalant klinkt. Deel daarna feiten in plaats van angst: zuurstoftekort, B12, bevriezing, verkeer. Jongeren prikken overdrijving snel door, en dan verlies je ook de feiten die wel kloppen.""",
+                 """Maak afspraken die haalbaar zijn en leg uit waarom je ze maakt. Een afspraak over niet fietsen na gebruik is realistischer dan een totaalverbod dat je toch niet kunt controleren, en het houdt het gesprek open voor de volgende keer. Vertel ook wat je kind moet doen als een vriend niet goed wordt: bij een bewusteloze of raar ademende persoon 112 bellen en niemand alleen laten. Wie dat benoemt, maakt het zijn kind makkelijker om in een noodsituatie hulp te vragen zonder angst voor straf.""",
+             ]},
+            {"h2": "Waar je terechtkunt, en wat wij doen",
+             "paragraphs": [
+                 """Twijfel je of het gebruik uit de hand loopt, begin dan bij de huisarts: die kan vitamine B12 laten meten, lichamelijke klachten beoordelen en doorverwijzen. Voor verslavingszorg kun je in Noord-Brabant terecht bij <a href="https://www.novadic-kentron.nl">Novadic-Kentron</a>, ook als ouder die zelf advies wil terwijl je kind nog geen hulp zoekt. Op school kun je terecht bij de mentor of zorgcoördinator.""",
+                 """Lachgas Den Bosch is een bezorgservice, geen hulpverlener. Onze grens ligt bij 18 jaar: de bezorger controleert aan de deur een identiteitsbewijs en levert niet aan wie dat niet kan tonen, ook niet als een oudere huisgenoot de bestelling heeft geplaatst voor iemand die jonger is. Hoe die controle werkt, staat op <a href="/leeftijdscontrole-18-plus/">leeftijdscontrole 18+</a>.""",
+             ]},
+        ],
+        "note": "Wij leveren uitsluitend aan 18+ en vragen om legitimatie. Bij een jongere die bewusteloos is of vreemd ademt, bel je 112; voor zorgen op langere termijn is de huisarts of Novadic-Kentron het adres.",
+        "related": ["problematisch-lachgasgebruik-hulp", "lachgas-en-vitamine-b12", "lachgas-en-mentale-gezondheid", "/leeftijdscontrole-18-plus/"],
+    },
+    {
+        "slug": "betrouwbare-lachgas-bezorgservice-herkennen", "label": "Praktisch",
+        "title": "Een betrouwbare lachgas bezorgservice herkennen",
+        "description": "Waaraan herken je een betrouwbare lachgas bezorgservice in Den Bosch? Prijs vooraf, geen vooruitbetaling, legitimatie, verzegelde tanks en eerlijke informatie.",
+        "h1": "Zo herken je een betrouwbare bezorgservice",
+        "lead": "Bezorgdiensten voor lachgas verschillen enorm in hoe zij werken. Deze checklist helpt je het kaf van het koren te scheiden, zonder namen: het gaat om de werkwijze, niet om wie het zegt.",
+        "updated": "november 2026",
+        "sections": [
+            {"h2": "Prijs vooraf, betalen bij levering",
+             "paragraphs": [
+                 """Het eerste kenmerk is simpel: je weet voordat de bezorger vertrekt wat je gaat betalen. Een betrouwbare dienst bevestigt de totale prijs voor de gekozen producten in het gesprek waarin je bestelt, en die prijs verandert niet aan de deur. ‘Hangt ervan af’ of ‘dat hoor je van de bezorger’ is een slecht teken. Even belangrijk is wanneer je betaalt: bij de overdracht, contant of via een betaalverzoek dat je ter plekke afrondt. Vooruitbetalen via een overschrijving, een betaallink in een bericht of een ‘aanbetaling om de rit te reserveren’ hoort niet bij een serieuze dienst.""",
+                 """De reden is niet alleen gemak. Wie vooraf betaalt, heeft geen enkel middel meer in handen als er niets komt of als er iets anders komt dan besproken. Nepaccounts die uitsluitend op vooruitbetaling werken en daarna verdwijnen, zijn in elke stad een bekend verschijnsel, ook in Den Bosch. Hoe wij het regelen, staat op <a href="/betalen-bij-levering/">betalen bij levering</a>: eerst de tank aan de deur, dan pas betalen, contant of via Tikkie.""",
+             ]},
+            {"h2": "Legitimatie en een duidelijk 18+-beleid",
+             "paragraphs": [
+                 """Een dienst die aan iedereen levert zonder naar leeftijd te vragen, lijkt makkelijk, maar vertelt je iets belangrijks: zij nemen de regels niet serieus, en dan waarschijnlijk ook niet de rest. Een betrouwbare bezorgservice zegt vooraf dat zij alleen aan personen van 18 jaar en ouder levert, vraagt aan de deur om een identiteitsbewijs en neemt de bestelling mee terug als dat niet kan worden getoond. Dat beleid staat op de website en in de voorwaarden, niet alleen als losse zin in een bericht. Lees hoe wij het doen op <a href="/leeftijdscontrole-18-plus/">leeftijdscontrole 18+</a>.""",
+             ]},
+            {"h2": "Verzegelde tanks en herkenbare producten",
+             "paragraphs": [
+                 """Een nieuwe tank is verzegeld: een intacte zegel over de kraan of aansluiting laat zien dat niemand hem na het vullen heeft geopend. Een betrouwbare dienst levert alleen verzegelde tanks, noemt het formaat eerlijk en zegt wat erin zit. Wees voorzichtig bij tanks zonder zegel, met een beschadigde kraan, met roest of deuken, of bij een dienst die ‘hervulde’ cilinders aanbiedt. Een cilinder is een drukhouder; wie daar slordig mee omgaat, zet een risico in jouw huis. Hoe de verschillende aansluitingen werken, staat in <a href="/lachgas-informatie/kraan-regulator-of-cracker/">kraan, regulator of cracker</a>.""",
+                 """Kijk ook naar hoe producten worden omschreven. Een dienst die formaten vermeldt in kilo’s, de verschillen uitlegt zonder te overdrijven en je bij twijfel naar een kleiner formaat verwijst, denkt mee. Een dienst die vooral praat over hoeveel je ‘eruit haalt’, die aanspoort om groter te bestellen of met kortingen voor grote hoeveelheden werkt, verkoopt een roes en geen product. Dat verschil merk je al in de eerste twee berichten.""",
+             ]},
+            {"h2": "Bereikbaarheid, voorwaarden en contactgegevens",
+             "paragraphs": [
+                 """Een serieuze dienst is te vinden: een website met een vast domein, algemene voorwaarden, een privacyverklaring, een contactpagina en een duidelijke beschrijving van het bezorggebied en de werkwijze. Na een bestelling blijft het gesprek open, ook als er iets mis is; een nummer dat na de betaling niet meer reageert, is het klassieke patroon van een eenmalig account. Onze <a href="/werkwijze/">werkwijze</a> en <a href="/algemene-voorwaarden/">algemene voorwaarden</a> staan daarom gewoon op de site, en een bestelling verloopt in één doorlopend gesprek.""",
+                 """Let op hoe levertijden worden gecommuniceerd. ‘In Den Bosch meestal binnen 15 tot 25 minuten’ is een eerlijke indicatie; ‘altijd binnen een kwartier, waar je ook bent’ is een belofte die niemand kan waarmaken op een zaterdagavond of tijdens carnaval in Oeteldonk. Hetzelfde geldt voor het gebied: een dienst die zegt waar zij wél en niet komt, is betrouwbaarder dan een die alles toezegt en pas aan de deur afhaakt.""",
+             ]},
+            {"h2": "Eerlijke informatie over risico’s",
+             "paragraphs": [
+                 """Misschien het belangrijkste kenmerk: vertelt de dienst je ook wat er tegen zit? Lachgas heeft gedocumenteerde risico’s, van bevriezing en zuurstoftekort tot zenuwschade door een tekort aan vitamine B12, en het is sinds 2023 een gereguleerde stof. Een betrouwbare bezorgservice schrijft daarover, verwijst naar bronnen als <a href="https://www.drugsinfo.nl">drugsinfo.nl</a> en <a href="https://www.trimbos.nl">trimbos.nl</a>, wijst de weg naar hulp en zegt nooit dat het ‘gewoon mag’ of ‘niets doet’. Een dienst die alleen maar feest verkoopt, laat weg wat jij juist zou moeten weten.""",
+             ]},
+            {"h2": "Rode vlaggen op een rij",
+             "paragraphs": [
+                 """Herken je een of meer van deze signalen, bestel dan niet, hoe aantrekkelijk het aanbod ook klinkt. Geen enkel punt is op zichzelf een bewijs, maar samen vormen ze een patroon dat je in Den Bosch en omgeving vaker ziet dan je zou willen. Twijfel je, stel dan een paar gewone vragen over leeftijd, betaling en verzegeling; aan de antwoorden merk je snel genoeg met wie je te maken hebt.""",
+             ],
+             "bullets": [
+                 "Vooruitbetalen via overschrijving, een betaallink of een aanbetaling, voordat er iets is geleverd.",
+                 "Geen website of alleen een social-media-account van een paar weken oud, zonder voorwaarden of contactpagina.",
+                 "Geen vraag naar leeftijd, of de uitdrukkelijke belofte dat ‘leeftijd geen probleem’ is.",
+                 "Tanks zonder zegel, met zichtbare schade, of het aanbod van hervulde cilinders.",
+                 "Levering op straat, op een parkeerplaats of bij een festivalhek in plaats van aan een deur.",
+                 "Beweringen dat lachgas voor feestjes gewoon is toegestaan, of dat er geen risico’s zijn.",
+                 "Druk om groter te bestellen, kortingen bij grote hoeveelheden of taal die alleen over de roes gaat.",
+                 "Een account dat na de betaling niet meer reageert of waarvan het nummer regelmatig verandert.",
+             ]},
+        ],
+        "note": "Wij noemen geen andere diensten bij naam. Deze checklist beschrijft werkwijzen, niet partijen; beoordeel elke aanbieder, ook ons, op wat er daadwerkelijk aan de deur gebeurt.",
+        "related": ["eerste-keer-lachgas-bestellen", "/veilig-bestellen-oplichting-herkennen/", "/betalen-bij-levering/", "/leeftijdscontrole-18-plus/"],
+    },
+    {
+        "slug": "eerste-keer-lachgas-bestellen", "label": "Praktisch",
+        "title": "Voor het eerst lachgas bestellen: zo verloopt het",
+        "description": "Voor het eerst een lachgastank bestellen in Den Bosch? Lees stap voor stap wat er gebeurt: bericht, prijsbevestiging, legitimatie, betalen en verzegeling.",
+        "h1": "Voor het eerst lachgas bestellen",
+        "lead": "Nog nooit een tank laten bezorgen? Dit is wat er gebeurt tussen je eerste bericht en het moment dat de bezorger weer wegrijdt, zonder verrassingen aan de deur.",
+        "updated": "november 2026",
+        "sections": [
+            {"h2": "Begin met één compleet bericht",
+             "paragraphs": [
+                 """Een bestelling begint bij ons met een bericht via WhatsApp, niet met een telefoontje en niet met een formulier. Het scheelt heen-en-weer als dat eerste bericht meteen compleet is. Zet erin: het volledige adres met huisnummer en eventueel een toevoeging of de naam op de bel, welk formaat tank je wilt, of je er een cracker of slagroompatronen bij wilt en rond welk tijdstip het je past. Twijfel je over het formaat, zeg dan hoeveel mensen er komen en hoelang de avond ongeveer duurt; wij denken mee zonder dat je iets hoeft te weten van tanks of aansluitingen.""",
+                 """Kijk voor je bestelt even in het <a href="/assortiment/">assortiment</a>, zodat je weet welke formaten er zijn en wat een cracker precies is. Een 2KG-tank is het kleinste formaat dat wij bezorgen, een 10KG het grootste en alleen op aanvraag; de keuzehulp <a href="/lachgas-informatie/lachgastank-2kg-4kg-of-10kg/">2KG, 4KG of 10KG</a> legt de verschillen uit. Bestel je voor een woonadres in Den Bosch, dan hoeven we verder weinig te weten. Gaat het om een gehuurde ruimte of een studentenhuis met meerdere bellen, meld dat dan, zodat de bezorger weet waar hij moet aanbellen en wie hij aan de deur mag verwachten.""",
+             ]},
+            {"h2": "Eerst een bevestiging, daarna pas een bezorger",
+             "paragraphs": [
+                 """Na je bericht krijg je van ons een bevestiging met de totale prijs voor de gekozen producten, de verwachte levertijd en het adres zoals wij het hebben genoteerd. Pas als jij daarop akkoord geeft, gaat de bestelling naar een bezorger. Zo weet je vooraf precies wat je aan de deur betaalt en kun je nog iets aanpassen: een ander formaat, een later tijdstip of een extra cracker. Prijzen noemen we alleen in dat persoonlijke bericht en niet op de site, omdat ze afhangen van het formaat en het moment.""",
+                 """Wij rekenen op een levertijd van meestal binnen 15 tot 25 minuten vanaf de bevestiging, in de Bossche wijken net zo goed als in Rosmalen, Vught, Oss of Zaltbommel. Bij drukte, zoals carnaval in Oeteldonk of een zaterdagavond in de zomer, kan het iets langer duren; dat melden we dan vooraf via WhatsApp. Wat de tijd verder beïnvloedt, staat op <a href="/bezorgtijden-den-bosch/">bezorgtijden in Den Bosch</a>. Blijf na de bevestiging bereikbaar op het nummer waarmee je bestelde, want de bezorger meldt zich kort voor aankomst.""",
+             ]},
+            {"h2": "Aan de deur: legitimatie, betaling en verzegeling",
+             "paragraphs": [
+                 """Wij leveren uitsluitend aan personen van 18 jaar en ouder. De bezorger kan je vragen om een geldige ID-kaart, een rijbewijs of een paspoort te laten zien, ook als je duidelijk ouder bent; dat is geen wantrouwen maar een vaste stap die voor iedereen geldt. Kun of wil je je niet legitimeren, dan gaat de tank terug in de auto en komt er geen levering. Houd je ID dus bij de hand als je de deur opent. Hoe de controle precies verloopt, lees je op <a href="/leeftijdscontrole-18-plus/">leeftijdscontrole 18+</a>.""",
+                 """Betalen doe je bij de overdracht, contant of via een Tikkie die de bezorger ter plekke stuurt; vooraf overmaken vragen wij nooit. Controleer voor je betaalt de verzegeling van de tank. Een nieuwe tank is dichtgezet met een intacte zegel over de kraan of aansluiting; is die beschadigd of ontbreekt hij, dan neem je de tank niet aan en regelen wij een vervanging. Dezelfde controle geldt voor een doos slagroompatronen. Meer over de betaalmogelijkheden staat op <a href="/betalen-bij-levering/">betalen bij levering</a>.""",
+             ]},
+            {"h2": "Niet thuis, verkeerd adres of toch iets anders",
+             "paragraphs": [
+                 """Het gebeurt: je staat bij de buren, de bel is stuk of je bent net even weg. De bezorger stuurt een bericht en wacht een paar minuten. Reageer je niet, dan rijdt hij verder en kun je later opnieuw contact opnemen; wij zetten nooit een tank bij de deur, in een portiek of bij een buurman, en we geven hem ook niet af aan iemand die zich niet kan legitimeren. Ook een levering op straat, op een parkeerplaats of bij het station doen we niet: een bestelling gaat altijd naar de deur van een woonadres of een gehuurde binnenruimte.""",
+                 """Klopt er iets niet bij de overdracht, bijvoorbeeld een ander formaat dan je bevestigde, zeg het dan meteen tegen de bezorger. Omruilen kan vaak direct, en anders volgt een tweede rit. Twijfel je achteraf over iets, stuur dan een bericht in hetzelfde WhatsApp-gesprek; daar staat de hele bestelling nog in, inclusief de bevestigde prijs. Wat je van ons mag verwachten en wat wij van jou verwachten, staat in de <a href="/algemene-voorwaarden/">algemene voorwaarden</a>.""",
+             ]},
+            {"h2": "Na de overdracht: neerzetten en later inleveren",
+             "paragraphs": [
+                 """Zet de tank na de overdracht meteen op een vaste plek: rechtop, stabiel, uit de zon en niet naast een kachel, oven of radiator, buiten bereik van kinderen en huisdieren. In <a href="/lachgas-informatie/lachgas-tank-bewaren-en-vervoeren/">tank bewaren en vervoeren</a> lees je wat wel en niet verstandig is. Lees ook, zeker als het je eerste keer is, de pagina over <a href="/lachgas-informatie/veilig-gebruik/">veilig omgaan met lachgas</a>: wat de risico’s zijn en waarom lachgas nooit samengaat met alcohol of verkeer.""",
+                 """Is de tank na afloop leeg, dan hoort hij niet bij het restafval. Het is een stalen drukhouder die via het milieustation wordt ingenomen; hoe dat in Den Bosch werkt, staat op <a href="/lachgas-informatie/lege-lachgastank-inleveren-den-bosch/">lege lachgastank inleveren</a>. Bewaar hem tot die tijd op dezelfde manier als een volle. Heb je na je eerste bestelling vragen over wat anders kon, laat het ons weten; een tweede bestelling verloopt meestal in een paar berichten, omdat wij je adres en voorkeuren dan al kennen.""",
+             ]},
+        ],
+        "note": "Wij leveren uitsluitend aan personen van 18 jaar en ouder en vragen aan de deur om een identiteitsbewijs. Vooruitbetalen is nooit nodig: je betaalt bij de overdracht.",
+        "related": ["lachgastank-2kg-4kg-of-10kg", "lachgas-tank-bewaren-en-vervoeren", "/werkwijze/", "/betalen-bij-levering/"],
+    },
+]

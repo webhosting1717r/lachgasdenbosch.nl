@@ -1,0 +1,24 @@
+{
+  "name": "Lachgas Den Bosch",
+  "short_name": "Lachgas Den Bosch",
+  "description": "Lachgas Den Bosch: lachgastanks, crackers en slagroompatronen bezorgd in Den Bosch en omgeving, bestellen via WhatsApp.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#b91c1c",
+  "lang": "nl",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
